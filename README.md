@@ -1,5 +1,7 @@
 ## Hi there 👋
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Merhaba%2C+Ben+Bir+Geli%C5%9Ftiriciyim!;Full-Stack+Projeler+Üretiyorum;Profilime+Ho%C5%9F+Geldin!)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+</p>
 <!--
 **sunbeamn/sunbeamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
