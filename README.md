@@ -1,7 +1,8 @@
 ## Hi there!
-- 🔭 I’m currently working on Data Science and improving my skills
-<img width="150" height="123" alt="Live chatbot" src="https://github.com/user-attachments/assets/75a32f50-57d0-4bbe-891d-0d99a059725f" />
+- 🔭 I’m currently working on Data Science, ML and improving my skills
 <p align="center">
+  <img src="kendi_dosya_adin.gif" width="150" height="123" alt="Live chatbot" />
+</p>
 <!--
 **sunbeamn/sunbeamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
