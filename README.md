@@ -1,7 +1,4 @@
 ## Hi there!
-- 🔭 I’m currently working on Data Science, ML and improving my skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 <p align="left">
   <img src="Live chatbot.gif" width="150" height="123" alt="Live chatbot (Minimalist White)" />
 </p>
