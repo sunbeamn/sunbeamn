@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Merhaba%2C+Ben+Bir+Geli%C5%9Ftiriciyim!;Full-Stack+Projeler+Üretiyorum;Profilime+Ho%C5%9F+Geldin!)
 <!--
 **sunbeamn/sunbeamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
