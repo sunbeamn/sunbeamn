@@ -1,6 +1,6 @@
 ## Hi there!
 <p align="left">
-  <img src="Live chatbot.gif" width="150" height="123" alt="Live chatbot (Minimalist White)" />
+  <img src="Live chatbot.gif" width="150" height="123" alt="Live chatbot" />
 </p>
 <!--
 **sunbeamn/sunbeamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
