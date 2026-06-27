@@ -1,7 +1,6 @@
 ## Hi there 👋
+<img width="150" height="123" alt="Live chatbot" src="https://github.com/user-attachments/assets/75a32f50-57d0-4bbe-891d-0d99a059725f" />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunbeamn&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
-</p>
 <!--
 **sunbeamn/sunbeamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
